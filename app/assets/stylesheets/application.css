@@ -1,4 +1,6 @@
 /*
+*= require self
+*= require_tree .
 *= require pages
 *= require '/vendor/assets/stylesheets/bootstrap-addon.css'
 */
